@@ -18,8 +18,3 @@
 [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-
-![Snake animation]
-(https://github.com/gabriel-cardoso23/gabriel-cardoso23/blob/output/github/contribuition-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/app/api/pin/?username=gabriel-cardoso23&repo=gabriel-cardoso23&theme=react)](https://github.com/gabriel-cardoso23/gabriel-cardoso23)
