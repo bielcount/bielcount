@@ -11,7 +11,10 @@
 - 📚 Estudando Front-End com JavaScript + VueJS
 </div>
 
+<div>
 <h2 align="start" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+ <br> 
+</div>
 
 <div align="start" >
   <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,bootstrap,mysql,vscode,github,git,obsidian," />
