@@ -6,7 +6,7 @@
 <div  align="start" >
   - 🔭 Atualmente estou trabalhando como Suporte N1 ...
   <br>
-- 👨🏻‍🎓 Cusrsando Análise e Desenvolvimento ded sistemas - IFFAR
+- 👨🏻‍🎓 Cusrsando Análise e Desenvolvimento de sistemas - IFFAR
     <br>
 - 📚 Estudando Front-End com JavaScript + VueJS
 </div>
