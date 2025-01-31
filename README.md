@@ -4,7 +4,7 @@
 </h1>
 
 <div  align="start" >
-  - 🔭 Atualmente estou trabalhando como Suporte N1 ...
+- ⚙️ Atualmente estou trabalhando como Suporte N1 ...
   <br>
 - 👨🏻‍🎓 Cusrsando Análise e Desenvolvimento de sistemas - IFFAR
     <br>
