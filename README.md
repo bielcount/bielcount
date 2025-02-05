@@ -25,7 +25,7 @@
 <div align="start" >
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-cardoso23&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-cardoso23&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -34,6 +34,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-cardoso23&show_icons=true" />
 </picture>
+<a href="https://github.com/gabriel-cardoso23">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-cardoso23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
+
 
