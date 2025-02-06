@@ -12,15 +12,15 @@
 </div>
 
 <div>
-<h2 align="start" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="start" >Tecnologias - Frameworks 🚀</h2>
  <br> 
 </div>
 
 <div align="start" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,bootstrap,mysql,vscode,github,git,obsidian," />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,vue,bootstrap,mysql,vscode,github,git,obsidian," />
 </div>
 
-<h2 align="start" >⚡Stats⚡</h2>
+<h2 align="start" >Estatísticas👾</h2>
 <br>
 <div align="start" >
   <picture>
