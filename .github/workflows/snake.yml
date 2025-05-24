@@ -2,23 +2,30 @@ name: Atualizar Cobrinha
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Roda a cada 6 horas
-  workflow_dispatch:       # Permite executar manualmente
+    - cron: "0 */5 * * *"  # Executa a cada 5 horas
+  workflow_dispatch:        # Permite execução manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Gerar cobrinha
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar animação da cobrinha
         uses: Platane/snk@master
         with:
-          github_user_name: bielcount
-          gif_out_path: dist/github-contribution-grid-snake.svg
-          
-      - name: Fazer commit
+          github_user_name: bielcount  # 👈 SEU USUÁRIO CORRETO
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      - name: Configurar Git
         run: |
-          git add dist
-          git commit -m "Atualizar cobrinha"
-          git push
+          git config --global user.name "bielcount"
+          git config --global user.email "gabrielcardoso0623@gmail.com"  # 👈 Use o email do GitHub
+
+      - name: Fazer commit e push
+        run: |
+          git add dist/
+          git commit -m "Atualizar animação da cobrinha"
+          git push origin main
