@@ -39,5 +39,8 @@
 </div>
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bielcount/bielcount/output/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" />
+</div>
 
-![Cobrinha das minhas contribuições](https://raw.githubusercontent.com/bielcount/bielcount/output/github-contribution-grid-snake.svg)
+
