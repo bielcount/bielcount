@@ -43,4 +43,4 @@
   <img src="https://raw.githubusercontent.com/bielcount/bielcount/output/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" />
 </div>
 
-
+![Cobrinha de contribuições](https://raw.githubusercontent.com/bielcount/bielcount/main/dist/github-contribution-grid-snake.svg)
