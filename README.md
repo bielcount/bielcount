@@ -8,7 +8,7 @@
   <br>
 - 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFFAR
     <br>
-- 📚 Estudando Front-End com JavaScript + VueJS
+- 📚 Estudando Back-End com Node.JS e Express
 </div>
 
 <div>
