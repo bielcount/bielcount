@@ -47,5 +47,5 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bielcount/bielcount/main/snake.svg" alt="Cobrinha de contribuições" width="100%" />
+  <img src="https://raw.githubusercontent.com/bielcount/bielcount/main/dist/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" width="100%" />
 </div>
