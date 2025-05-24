@@ -1,0 +1,26 @@
+name: Atualizar Cobrinha
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Atualiza a cada 6 horas
+  workflow_dispatch:        # Permite executar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Gerar cobrinha
+        uses: Platane/snk@master
+        with:
+          github_user_name: bielcount  # Seu usuário GitHub
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Fazer commit
+        run: |
+          git config --global user.name "bielcount"
+          git config --global user.email "gabrielcardoso0623@gmail.com"  # Seu email
+          git add dist
+          git commit -m "Atualizar cobrinha"
+          git push
