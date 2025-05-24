@@ -2,7 +2,7 @@ name: Atualizar Cobrinha
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # Atualiza a cada 6 horas
   workflow_dispatch:
 
 jobs:
@@ -15,12 +15,12 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: bielcount
-          svg_out_path: github-contribution-grid-snake.svg  # Mudança importante
+          svg_out_path: snake.svg
           
       - name: Fazer commit
         run: |
           git config --global user.name "bielcount"
           git config --global user.email "gabrielcardoso0623@gmail.com"
-          git add github-contribution-grid-snake.svg
+          git add snake.svg
           git commit -m "Atualizar cobrinha"
           git push
