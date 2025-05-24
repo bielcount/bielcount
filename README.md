@@ -40,3 +40,4 @@
 <br>
 
 
+![Cobrinha das minhas contribuições](https://raw.githubusercontent.com/bielcount/bielcount/output/github-contribution-grid-snake.svg)
