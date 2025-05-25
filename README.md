@@ -49,3 +49,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bielcount/bielcount/main/dist/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" width="100%" />
 </div>
+<img src="https://raw.githubusercontent.com/bielcount/bielcount/output/snake.svg" alt="Snake animation" />
