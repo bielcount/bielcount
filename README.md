@@ -39,14 +39,4 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bielcount/bielcount/output/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" />
-</div>
-
-![Cobrinha de contribuições](https://raw.githubusercontent.com/bielcount/bielcount/main/dist/github-contribution-grid-snake.svg)
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bielcount/bielcount/main/dist/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" width="100%" />
-</div>
 <img src="https://raw.githubusercontent.com/bielcount/bielcount/output/snake.svg" alt="Snake animation" />
