@@ -1,6 +1,6 @@
 
 <h1 align="start">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=25&duration=4500&pause=800&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+Back-End" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&size=25&duration=4500&pause=800&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+Back-End+🤖" alt="Typing SVG" /></a>
 </h1>
 
 <div  align="start" >
@@ -17,7 +17,7 @@
 </div>
 
 <div align="start" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,express,mongo,mysql,vscode,github,git,obsidian,ubuntu," />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,express,mongo,mysql,vscode,github,git,vercel,obsidian,ubuntu" />
 </div>
 
 <h2 align="start" >Estatísticas👾</h2>
