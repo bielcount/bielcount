@@ -4,11 +4,13 @@
 </h1>
 
 <div  align="start" >
-- ⚙️ Atualmente estou trabalhando como Suporte N1 ...
+- ⚙️ Atualmente atuo como Suporte N1 a sistemas ERP, realizando atendimento técnico, análise e resolução de incidentes, além de garantir a estabilidade e o bom funcionamento dos sistemas utilizados pelos clientes.
   <br>
-- 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFFAR
-    <br>
-- 📚 Estudando Back-End com Node.JS e Express
+- 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFFAR, com foco em aprimorar minhas habilidades em desenvolvimento de software e boas práticas de engenharia.
+  <br>
+- 📚 Estou me especializando em Back-End com Java, utilizando Spring Boot 🍃, JPA/Hibernate, APIs RESTful, e ferramentas como Docker, PostgreSQL e Thunder Client.
+  <br>
+- 🚀 Busco evoluir constantemente na área de desenvolvimento, aplicando conceitos de DDD (Domain-Driven Design), boas práticas de código limpo e arquiteturas modernas.
 </div>
 
 <div>
@@ -17,7 +19,7 @@
 </div>
 
 <div align="start" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,nest,java,mongo,postgres,prisma,vscode,github,git,vercel,obsidian,debian" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,hibernate,mongo,postgres,bash,git,docker,debian,vercel,obsidian," />
 </div>
 
 <h2 align="start" >Estatísticas👾</h2>
