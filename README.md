@@ -8,7 +8,7 @@
   <br>
 - 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFFAR, com foco em aprimorar minhas habilidades em desenvolvimento de software e boas práticas de engenharia.
   <br>
-- 📚 Estou me especializando em Back-End com Java, utilizando Spring Boot 🍃, JPA/Hibernate, APIs RESTful, e ferramentas como Docker, PostgreSQL e Thunder Client.
+- 📚 Estou me especializando em Back-End com Java, utilizando Spring Boot 🍃, JPA/Hibernate, APIs RESTful e ferramentas como Docker, MySql/MariaDB e Thunder Client.
   <br>
 - 🚀 Busco evoluir constantemente na área de desenvolvimento, aplicando conceitos de DDD (Domain-Driven Design), boas práticas de código limpo e arquiteturas modernas.
 </div>
@@ -19,7 +19,7 @@
 </div>
 
 <div align="start" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,hibernate,mongo,postgres,bash,git,docker,debian,vercel,obsidian," />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,hibernate,mongo,mysql,bash,git,docker,debian,vercel,obsidian," />
 </div>
 
 <h2 align="start" >Estatísticas👾</h2>
