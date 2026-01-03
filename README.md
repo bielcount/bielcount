@@ -8,7 +8,7 @@
   <br>
 - 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFFAR, com foco em aprimorar minhas habilidades em desenvolvimento de software e boas práticas de engenharia.
   <br>
-- 📚 Estou me especializando em Back-End com Java, utilizando Spring Boot 🍃, JPA/Hibernate, APIs RESTful e ferramentas como Docker, MySql/MariaDB e Thunder Client.
+- 📚 Estou me aprofundando em Back-End com Java, utilizando Spring Boot 🍃, JPA/Hibernate, APIs RESTful e ferramentas como Docker, MySql/MariaDB e Thunder Client.
   <br>
 - 🚀 Busco evoluir constantemente na área de desenvolvimento, aplicando conceitos de DDD (Domain-Driven Design), boas práticas de código limpo e arquiteturas modernas.
 </div>
