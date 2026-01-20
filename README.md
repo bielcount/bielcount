@@ -27,18 +27,18 @@
 <div align="start" >
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bielcount&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=GabrielCardoso-0&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bielcount&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=GabrielCardoso-0&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=bielcount&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCardoso-0&show_icons=true" />
 </picture>
-<a href="https://github.com/bielcount">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielcount&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/GabrielCardoso-0">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCardoso-0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/bielcount/bielcount/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabrielCardoso-0/GabrielCardoso-0/output/snake.svg" alt="Snake animation" />
