@@ -19,7 +19,7 @@
 </div>
 
 <div align="start" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,hibernate,mongo,mysql,bash,git,docker,aws,debian,vercel,obsidian," />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,hibernate,mongo,mysql,bash,git,docker,aws,debian,obsidian," />
 </div>
 
 <h2 align="start" >Estatísticas👾</h2>
