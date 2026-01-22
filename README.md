@@ -10,7 +10,7 @@
   <br>
 - 📚 Estou me aprofundando em Back-End com Java, utilizando Spring Boot 🍃, JPA/Hibernate, APIs RESTful e ferramentas como Docker, MySql/MariaDB e Thunder Client.
   <br>
-- 🚀 Busco evoluir constantemente na área de desenvolvimento, aplicando conceitos de DDD (Domain-Driven Design), boas práticas de código limpo e arquiteturas modernas.
+- 🚀 Busco evoluir constantemente na área de desenvolvimento, utilizando metodologias ágeis, versionamento com git, boas práticas de código limpo e arquiteturas modernas.
 </div>
 
 <div>
